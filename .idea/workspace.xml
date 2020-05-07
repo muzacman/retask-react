@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a7eeb8bf-cc1f-44cf-b41a-a941308cb45c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/AddMovement.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/AddTaskToMovement.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/Main.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/Register.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/Login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/Login.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +65,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587846773353</updated>
-      <workItem from="1587846777346" duration="1463000" />
+      <workItem from="1587846777346" duration="17142000" />
     </task>
     <servers />
   </component>
@@ -89,5 +93,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1587847139584" />
+    <state x="597" y="453" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1587858703597">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="597" y="453" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587858703597" />
   </component>
 </project>
